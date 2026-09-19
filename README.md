@@ -39,4 +39,6 @@ To design and fabricate a creative handmade LED greeting card to produce an attr
 ![][result2.jpeg]
 
 ![][result.jpeg]
+![result](result2.jpeg)
+![result](result.jpeg)
 
